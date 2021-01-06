@@ -29,7 +29,6 @@ PySocks==1.7.1
 pyTelegramBotAPI==3.7.3
 python-dotenv==0.15.0
 pytz==2020.4
-pywin32==228
 requests==2.24.0
 rsa==4.6
 six==1.15.0
